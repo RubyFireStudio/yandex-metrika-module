@@ -30,7 +30,7 @@ using top level options
     ['yandex-metrika-module']
   ],
  
- 'google-analytics': {
+ 'yandex-metrika': {
     id: 'XXXXXXXX'
   }
 }
