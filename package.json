@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/yandex-metrika-module",
+  "name": "yandex-metrika-module",
   "version": "0.0.1",
   "description": "Yandex metrika Module for Nuxt.js",
   "license": "MIT",
