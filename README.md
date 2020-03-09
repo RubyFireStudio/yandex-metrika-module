@@ -6,7 +6,7 @@
 
 [![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](http://standardjs.com)
 
-> Yandex metrika integration for Nuxt.js with [vue-analytics](https://github.com/vchaptsev/vue-yandex-metrika)
+> Yandex metrika integration for Nuxt.js with [vue-yandex-metrika](https://github.com/vchaptsev/vue-yandex-metrika)
 
 ## Setup
 - Add `yandex-metrika-module` dependency using yarn or npm to your project
